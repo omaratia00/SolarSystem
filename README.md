@@ -11,7 +11,7 @@ Python, OpenGL 3.3 (Core Profile), GLFW and NumPy.
 
 ## Setup
 ```powershell
-git clone https://github.com/<omar_atia>/SolarSystem.git
+git clone https://github.com/omaratia00/SolarSystem.git
 cd SolarSystem
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
